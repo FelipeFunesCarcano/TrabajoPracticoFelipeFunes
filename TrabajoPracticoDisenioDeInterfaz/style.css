@@ -1,0 +1,21 @@
+
+body{
+text-align: right;
+
+}
+ h1{
+    text-align: center;
+    background-color: blueviolet;
+font-size: 50px;
+margin-top:0% ;
+margin-bottom: 0%;
+}
+h2{
+   text-align: left;
+   color: blue;
+    
+}
+
+nav{
+    text-align: left;
+}
